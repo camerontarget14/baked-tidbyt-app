@@ -27,7 +27,7 @@ This application connects a Tidbyt display device to the Shotgrid API, allowing 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/camdotcom14/baked-tidbyt-app.git
+   git clone https://github.com/BakedStudios/baked-tidbyt-app.git
    cd baked-tidbyt-app
    ```
 
