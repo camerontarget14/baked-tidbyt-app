@@ -45,8 +45,8 @@ This application connects a Tidbyt display device to the Shotgrid API, allowing 
    ```
    brew install tidbyt/tidbyt/pixlet
    ```
-   > ![NOTE]
-   > You will need to authenticate pixlet with your Tidbyt account.
+> [!NOTE]  
+> You will need to authenticate pixlet with your Tidbyt account.
 
 5. Create the Tidbyt application directory:
    ```
