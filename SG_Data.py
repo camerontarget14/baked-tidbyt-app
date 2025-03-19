@@ -5,7 +5,7 @@ import os
 import subprocess
 import time
 
-# clearing plist logs for lazy people
+# Clearing plist logs for lazy people
 log_files = [
     "/Applications/Tidbyt/com.Tidbyt.SG_Data.out",
     "/Applications/Tidbyt/com.Tidbyt.SG_Data.err"
