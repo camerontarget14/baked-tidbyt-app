@@ -4,7 +4,7 @@
 
 ## Overview
 
-This application connects a Tidbyt display device to the Shotgrid API, allowing you to view real-time data from your Shotgrid instance directly on your Tidbyt device. The app specifically tracks and displays the count of Versions with "cnv" status in active projects.
+This application connects a Tidbyt display device to the Shotgrid API, allowing you to view real-time data from your Shotgrid instance directly on your Tidbyt device. The app specifically tracks and displays the count of Versions with "cnv" (check new version) status in active projects.
 
 ## Features
 
