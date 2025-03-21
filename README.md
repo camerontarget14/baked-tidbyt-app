@@ -1,6 +1,6 @@
 # Tidbyt-Shotgrid Integration
 
-![Preview](https://i.redd.it/33ncocix7k1c1.png) 37 CNVs
+![Preview](./tidbyt.jpg) 37 CNVs
 
 ## Overview
 
